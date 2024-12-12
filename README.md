@@ -10,6 +10,7 @@
 🛠️ **Skills:**
  - Programming Languages :
     _C, C++, Assembly_
- - Embedded Systems :
-    _FreeRTOS, OSEK OS, AUTOSAR OS, Memory Protection_
+ - Expertise :
+    _FreeRTOS, OSEK OS, Autosar OS, Memory Protection_
   
+**Never stop learning😊**
